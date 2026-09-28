@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OsnovniSlucaj.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  misc.c
+  LINK : C:\Users\Sara\Desktop\PRP  projekat\x64\Debug\1_OsnovniSlucaj.exe not found or not built by the last incremental link; performing full link
+  OsnovniSlucaj.vcxproj -> C:\Users\Sara\Desktop\PRP  projekat\x64\Debug\1_OsnovniSlucaj.exe

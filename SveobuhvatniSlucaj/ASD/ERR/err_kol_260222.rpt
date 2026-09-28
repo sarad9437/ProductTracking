@@ -1,0 +1,4 @@
+              Proizvod                    Promena
+Id         Kolicina   Naziv           Tip   Kolicina   Greska                                  
+--------------------------------------------------------------------------------
+20         250        Pro_20          -     900        Nepostojeca kolicina proizvoda.

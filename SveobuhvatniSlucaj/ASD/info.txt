@@ -1,0 +1,31 @@
+========================================================================
+APLIKACIJA: ASD - Azuriranje Serijske Datoteke
+========================================================================
+
+Verzija: 1.0
+Slucaj : 5 - Sveobuhvatni slucaj
+Autor  : Marija Milosavljevic, mm20220547@student.fon.bg.ac.rs
+          Sara Da Rold, sd20220413@student.fon.bg.ac.rs
+Mentor : Sasa D. Lazarevic, slazar@fon.rs
+
+========================================================================
+UPOTREBA:
+========================================================================
+
+Program se pokrece komandom: asd.exe
+
+Struktura foldera:
+.\ASD\DATA\          - Aktivne datoteke (maticna.dat, transakciona.dat)
+.\ASD\DATA\OLD\     - Arhivirane datoteke (mat_YYMMDD.dat, tran_YYMMDD.dat)
+.\ASD\RPT\           - Izvestaji (prom_YYMMDD.rpt, nov_pro_YYMMDD.rpt)
+.\ASD\ERR\           - Izvestaji o greskama (err_kol_YYMMDD.rpt, err_pro_YYMMDD.rpt)
+.\ASD\DEMO\          - Demo podaci
+
+========================================================================
+SLUCAJ 5 - SVEOBUHVATNI SLUCAJ - Karakteristike:
+========================================================================
+
+Kombinuje sve prethodne slucajeve
+Scenariji: D.1.+D.3.=I.1., D.1.+D.4.=I.1., D.1.+D.4.=I.2., D.2.+D.3.=I.1., D.2.+D.4.=I.2.
+Generisu se svi izvestaji prema potrebi
+

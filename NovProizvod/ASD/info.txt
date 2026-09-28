@@ -1,0 +1,32 @@
+========================================================================
+APLIKACIjA: ASD - Azuriranje Serijske Datoteke
+========================================================================
+
+Verzija: 1.0
+SLUCAJ : 3 - Nov proizvod
+Autor  : Marija Milosavljevic, mm20220547@student.fon.bg.ac.rs
+          Sara Da Rold, sd20220413@student.fon.bg.ac.rs
+Mentor : Sasa D. Lazarevic, slazar@fon.rs
+
+========================================================================
+UPOTREBA:
+========================================================================
+
+Program se pokrece komandom: asd.exe
+
+Struktura foldera:
+.\ASD\DATA\          - Aktivne datoteke (maticna.dat, transakciona.dat)
+.\ASD\DATA\OLD\     - Arhivirane datoteke (mat_YYMMDD.dat, tran_YYMMDD.dat)
+.\ASD\RPT\           - Izvestaji (prom_YYMMDD.rpt, nov_pro_YYMMDD.rpt)
+.\ASD\ERR\           - Izvestaji o greskama
+.\ASD\DEMO\          - Demo podaci
+
+========================================================================
+SLUCAJ 3 - NOV PROIZVOD - Karakteristike:
+========================================================================
+
+Azurira se proizvod koji postoji u maticnoj datoteci
+Dodaju se novi proizvodi (D.2. + D.3. = I.1.)
+Scenariji: D.1.+D.3.=I.1., D.1.+D.4.=I.1., D.2.+D.3.=I.1.
+NEMA provere nepostojece kolicine
+

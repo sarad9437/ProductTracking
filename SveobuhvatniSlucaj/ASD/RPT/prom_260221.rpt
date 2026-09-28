@@ -1,0 +1,5 @@
+              Proizvod                    Promena      Nova
+Id         Kolicina   Naziv           Tip   Kolicina   kolicina  
+--------------------------------------------------------------------
+10         150        Pro_10          +     100        250       
+10         250        Pro_10          -     200        50        

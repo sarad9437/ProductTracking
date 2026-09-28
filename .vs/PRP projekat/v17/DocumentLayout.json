@@ -1,0 +1,629 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\adts.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|solutionrelative:SveobuhvatniSlucaj\\adts.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|solutionrelative:SveobuhvatniSlucaj\\util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|solutionrelative:SveobuhvatniSlucaj\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\NepostojeciProizvod.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|solutionrelative:NepostojeciProizvod\\NepostojeciProizvod.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\NovProizvod.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|solutionrelative:NovProizvod\\NovProizvod.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\adts.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|solutionrelative:NepostojeciProizvod\\adts.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|solutionrelative:NepostojeciProizvod\\util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|solutionrelative:NepostojeciProizvod\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\misc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|solutionrelative:NepostojeciProizvod\\misc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|solutionrelative:NepostojeciProizvod\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\misc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|solutionrelative:NepostojeciProizvod\\misc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\misc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|solutionrelative:SveobuhvatniSlucaj\\misc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|solutionrelative:SveobuhvatniSlucaj\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\misc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|solutionrelative:NovProizvod\\misc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\adts.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|solutionrelative:NovProizvod\\adts.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\adts.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|solutionrelative:NepostojecaKolicina\\adts.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\adts.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|solutionrelative:OsnovniSlucaj\\adts.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\misc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|solutionrelative:NepostojecaKolicina\\misc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\misc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|solutionrelative:OsnovniSlucaj\\misc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|solutionrelative:SveobuhvatniSlucaj\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C703C4B7-B36B-4B2E-8AED-E45E0369E605}|NepostojeciProizvod\\NepostojeciProizvod.vcxproj|solutionrelative:NepostojeciProizvod\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|solutionrelative:NovProizvod\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|solutionrelative:NepostojecaKolicina\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|solutionrelative:OsnovniSlucaj\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\misc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2491A16-9F70-4257-9A8B-B6F8B657A108}|SveobuhvatniSlucaj\\SveobuhvatniSlucaj.vcxproj|solutionrelative:SveobuhvatniSlucaj\\misc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\misc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|solutionrelative:NovProizvod\\misc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\misc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|solutionrelative:NepostojecaKolicina\\misc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\misc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|solutionrelative:OsnovniSlucaj\\misc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\adts.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|solutionrelative:OsnovniSlucaj\\adts.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|solutionrelative:OsnovniSlucaj\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|solutionrelative:OsnovniSlucaj\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|solutionrelative:NovProizvod\\util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7BE7D1D-9E4F-40D5-9D45-5692AC2DE99D}|OsnovniSlucaj\\OsnovniSlucaj.vcxproj|solutionrelative:OsnovniSlucaj\\util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|solutionrelative:NepostojecaKolicina\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC69B611-27F4-4BE8-88C2-8445EFD67948}|NovProizvod\\NovProizvod.vcxproj|solutionrelative:NovProizvod\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|solutionrelative:NepostojecaKolicina\\util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|solutionrelative:NepostojecaKolicina\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\adts.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1458A67-171C-4360-99C5-C2AAD42E3424}|NepostojecaKolicina\\NepostojecaKolicina.vcxproj|solutionrelative:NepostojecaKolicina\\adts.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NovProizvod.vcxproj.filters",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\NovProizvod.vcxproj.filters",
+              "RelativeDocumentMoniker": "NovProizvod\\NovProizvod.vcxproj.filters",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\NovProizvod.vcxproj.filters",
+              "RelativeToolTip": "NovProizvod\\NovProizvod.vcxproj.filters",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-22T10:27:50.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NepostojeciProizvod.vcxproj.filters",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\NepostojeciProizvod.vcxproj.filters",
+              "RelativeDocumentMoniker": "NepostojeciProizvod\\NepostojeciProizvod.vcxproj.filters",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\NepostojeciProizvod.vcxproj.filters",
+              "RelativeToolTip": "NepostojeciProizvod\\NepostojeciProizvod.vcxproj.filters",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-22T10:27:49.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "util.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\util.h",
+              "RelativeDocumentMoniker": "NepostojeciProizvod\\util.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\util.h",
+              "RelativeToolTip": "NepostojeciProizvod\\util.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-21T20:04:22.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "util.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\util.h",
+              "RelativeDocumentMoniker": "SveobuhvatniSlucaj\\util.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\util.h",
+              "RelativeToolTip": "SveobuhvatniSlucaj\\util.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-21T19:57:43.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\main.c",
+              "RelativeDocumentMoniker": "SveobuhvatniSlucaj\\main.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\main.c",
+              "RelativeToolTip": "SveobuhvatniSlucaj\\main.c",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-04T13:38:08.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\main.c",
+              "RelativeDocumentMoniker": "NepostojeciProizvod\\main.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\main.c",
+              "RelativeToolTip": "NepostojeciProizvod\\main.c",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-04T13:37:55.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\main.c",
+              "RelativeDocumentMoniker": "NovProizvod\\main.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\main.c",
+              "RelativeToolTip": "NovProizvod\\main.c",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-04T13:37:40.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "misc.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\misc.h",
+              "RelativeDocumentMoniker": "SveobuhvatniSlucaj\\misc.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\misc.h",
+              "RelativeToolTip": "SveobuhvatniSlucaj\\misc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T13:36:34.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "misc.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\misc.h",
+              "RelativeDocumentMoniker": "NepostojeciProizvod\\misc.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\misc.h",
+              "RelativeToolTip": "NepostojeciProizvod\\misc.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T13:36:25.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "misc.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\misc.h",
+              "RelativeDocumentMoniker": "NovProizvod\\misc.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\misc.h",
+              "RelativeToolTip": "NovProizvod\\misc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T13:36:13.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "util.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\util.c",
+              "RelativeDocumentMoniker": "SveobuhvatniSlucaj\\util.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\util.c",
+              "RelativeToolTip": "SveobuhvatniSlucaj\\util.c",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T23:12:00.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "util.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\util.c",
+              "RelativeDocumentMoniker": "NovProizvod\\util.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\util.c",
+              "RelativeToolTip": "NovProizvod\\util.c",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T23:11:53.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "util.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\util.c",
+              "RelativeDocumentMoniker": "NepostojeciProizvod\\util.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\util.c",
+              "RelativeToolTip": "NepostojeciProizvod\\util.c",
+              "ViewState": "AgIAANoAAAAAAAAAAAAhwOkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T23:11:13.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "util.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\util.c",
+              "RelativeDocumentMoniker": "NepostojecaKolicina\\util.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\util.c",
+              "RelativeToolTip": "NepostojecaKolicina\\util.c",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAIwKsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T23:08:33.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "misc.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\misc.c",
+              "RelativeDocumentMoniker": "SveobuhvatniSlucaj\\misc.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\misc.c",
+              "RelativeToolTip": "SveobuhvatniSlucaj\\misc.c",
+              "ViewState": "AgIAALUEAAAAAAAAAAAhwMIEAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T23:08:25.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "misc.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\misc.c",
+              "RelativeDocumentMoniker": "NovProizvod\\misc.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\misc.c",
+              "RelativeToolTip": "NovProizvod\\misc.c",
+              "ViewState": "AgIAANkEAAAAAAAAAAAAAOAEAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T23:08:18.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "misc.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\misc.c",
+              "RelativeDocumentMoniker": "NepostojeciProizvod\\misc.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\misc.c",
+              "RelativeToolTip": "NepostojeciProizvod\\misc.c",
+              "ViewState": "AgIAAMUEAAAAAAAAAAAhwNQEAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T23:08:09.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "misc.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\misc.c",
+              "RelativeDocumentMoniker": "NepostojecaKolicina\\misc.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\misc.c",
+              "RelativeToolTip": "NepostojecaKolicina\\misc.c",
+              "ViewState": "AgIAAIYEAAAAAAAAAAApwJoEAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T23:07:58.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "defs.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\defs.h",
+              "RelativeDocumentMoniker": "SveobuhvatniSlucaj\\defs.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\defs.h",
+              "RelativeToolTip": "SveobuhvatniSlucaj\\defs.h",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T23:07:56.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "defs.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\defs.h",
+              "RelativeDocumentMoniker": "NovProizvod\\defs.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\defs.h",
+              "RelativeToolTip": "NovProizvod\\defs.h",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T23:07:55.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "defs.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\defs.h",
+              "RelativeDocumentMoniker": "NepostojeciProizvod\\defs.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\defs.h",
+              "RelativeToolTip": "NepostojeciProizvod\\defs.h",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T23:07:52.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "adts.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\adts.c",
+              "RelativeDocumentMoniker": "SveobuhvatniSlucaj\\adts.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\SveobuhvatniSlucaj\\adts.c",
+              "RelativeToolTip": "SveobuhvatniSlucaj\\adts.c",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T22:49:45.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "adts.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\adts.c",
+              "RelativeDocumentMoniker": "NovProizvod\\adts.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NovProizvod\\adts.c",
+              "RelativeToolTip": "NovProizvod\\adts.c",
+              "ViewState": "AgIAAH8AAAAAAAAAAAApwJMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T22:49:35.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "adts.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\adts.c",
+              "RelativeDocumentMoniker": "NepostojeciProizvod\\adts.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojeciProizvod\\adts.c",
+              "RelativeToolTip": "NepostojeciProizvod\\adts.c",
+              "ViewState": "AgIAADsAAAAAAAAAAAAhwEoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T22:49:25.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adts.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\adts.c",
+              "RelativeDocumentMoniker": "NepostojecaKolicina\\adts.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\adts.c",
+              "RelativeToolTip": "NepostojecaKolicina\\adts.c",
+              "ViewState": "AgIAAIkAAAAAAAAAAAApwJ0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T22:49:12.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "util.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\util.h",
+              "RelativeDocumentMoniker": "NepostojecaKolicina\\util.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\util.h",
+              "RelativeToolTip": "NepostojecaKolicina\\util.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T12:40:40.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "misc.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\misc.h",
+              "RelativeDocumentMoniker": "NepostojecaKolicina\\misc.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\misc.h",
+              "RelativeToolTip": "NepostojecaKolicina\\misc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T12:40:35.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "defs.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\defs.h",
+              "RelativeDocumentMoniker": "NepostojecaKolicina\\defs.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\defs.h",
+              "RelativeToolTip": "NepostojecaKolicina\\defs.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T12:40:33.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "adts.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\adts.h",
+              "RelativeDocumentMoniker": "NepostojecaKolicina\\adts.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\adts.h",
+              "RelativeToolTip": "NepostojecaKolicina\\adts.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T12:40:26.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\main.c",
+              "RelativeDocumentMoniker": "NepostojecaKolicina\\main.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\NepostojecaKolicina\\main.c",
+              "RelativeToolTip": "NepostojecaKolicina\\main.c",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T12:37:18.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "defs.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\defs.h",
+              "RelativeDocumentMoniker": "OsnovniSlucaj\\defs.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\defs.h",
+              "RelativeToolTip": "OsnovniSlucaj\\defs.h",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T09:40:12.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "adts.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\adts.c",
+              "RelativeDocumentMoniker": "OsnovniSlucaj\\adts.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\adts.c",
+              "RelativeToolTip": "OsnovniSlucaj\\adts.c",
+              "ViewState": "AgIAAIoAAAAAAAAAAAApwJ4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T09:25:40.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "adts.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\adts.h",
+              "RelativeDocumentMoniker": "OsnovniSlucaj\\adts.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\adts.h",
+              "RelativeToolTip": "OsnovniSlucaj\\adts.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-01T18:01:45.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "util.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\util.h",
+              "RelativeDocumentMoniker": "OsnovniSlucaj\\util.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\util.h",
+              "RelativeToolTip": "OsnovniSlucaj\\util.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T09:36:34.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "util.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\util.c",
+              "RelativeDocumentMoniker": "OsnovniSlucaj\\util.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\util.c",
+              "RelativeToolTip": "OsnovniSlucaj\\util.c",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAIwHIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T09:33:38.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "misc.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\misc.c",
+              "RelativeDocumentMoniker": "OsnovniSlucaj\\misc.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\misc.c",
+              "RelativeToolTip": "OsnovniSlucaj\\misc.c",
+              "ViewState": "AgIAAIYEAAAAAAAAAAApwJoEAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-31T22:08:02.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "misc.h",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\misc.h",
+              "RelativeDocumentMoniker": "OsnovniSlucaj\\misc.h",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\misc.h",
+              "RelativeToolTip": "OsnovniSlucaj\\misc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-31T22:07:45.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\main.c",
+              "RelativeDocumentMoniker": "OsnovniSlucaj\\main.c",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PRP  projekat\\OsnovniSlucaj\\main.c",
+              "RelativeToolTip": "OsnovniSlucaj\\main.c",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-02T09:25:08.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

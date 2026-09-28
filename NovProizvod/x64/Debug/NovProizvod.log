@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (NovProizvod.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  adts.c
+C:\Users\Sara\Desktop\PRP  projekat\NovProizvod\adts.c(266,16): warning C4101: 'i': unreferenced local variable
+C:\Users\Sara\Desktop\PRP  projekat\NovProizvod\adts.c(394,16): warning C4101: 'i': unreferenced local variable
+  main.c
+  misc.c
+  util.c
+C:\Users\Sara\Desktop\PRP  projekat\NovProizvod\util.c(44,13): warning C4033: 'sumirajTransakcije' must return a value
+  Generating Code...
+C:\Users\Sara\Desktop\PRP  projekat\NovProizvod\util.c(87,1): warning C4716: 'sumirajTransakcije': must return a value
+  NovProizvod.vcxproj -> C:\Users\Sara\Desktop\PRP  projekat\x64\Debug\3_NovProizvod.exe

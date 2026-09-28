@@ -1,0 +1,4 @@
+              Proizvod                    Promena
+Id         Kolicina   Naziv           Tip   Kolicina   Greska                                  
+--------------------------------------------------------------------------------
+100        0          Pro_100         -     100        Pokusaj izlaza nepostojeceg proizvoda.
