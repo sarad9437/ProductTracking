@@ -1,6 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (NepostojeciProizvod.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  adts.c
-C:\Users\Sara\Desktop\PRP  projekat\NepostojeciProizvod\adts.c(266,16): warning C4101: 'i': unreferenced local variable
-C:\Users\Sara\Desktop\PRP  projekat\NepostojeciProizvod\adts.c(394,16): warning C4101: 'i': unreferenced local variable
-C:\Users\Sara\Desktop\PRP  projekat\NepostojeciProizvod\adts.c(691,10): warning C4013: 'sumirајTransakcije' undefined; assuming extern returning int
-  NepostojeciProizvod.vcxproj -> C:\Users\Sara\Desktop\PRP  projekat\x64\Debug\4_NepostojeciProizvod.exe
